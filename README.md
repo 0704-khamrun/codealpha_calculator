@@ -50,22 +50,11 @@ This project was created to practice:
 
 ## 🔮 Future Enhancements
 * Calculation history
-* Dark/Light mode toggle
 * Keyboard shortcuts
 * Percentage and square root operations
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
 
 ## 👨‍💻 Author
 
 SHAIK KHAMRUN
 
-⭐ If you found this project helpful, consider giving it a star on GitHub!
+
